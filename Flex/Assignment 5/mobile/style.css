@@ -1,0 +1,33 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+body{
+background:black;
+font-family:Arial;
+display:flex;
+justify-content:center;
+padding:40px;
+}
+.container{
+width:250px;
+background:white;
+padding:10px;
+
+}
+header{
+background:#ff6347;
+padding:20px;
+text-align:center;
+}
+.article{
+background:#12b8ed;
+padding:40px 15px;
+margin:10px 0;
+}
+footer{
+background:#8ee889;
+padding:20px;
+text-align:center;
+}
